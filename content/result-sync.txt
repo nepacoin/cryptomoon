@@ -1,0 +1,4 @@
+Here is the result : Until now you have seen that whenever you call a function with some values as its arguments,
+these values get assigned to the parameters in the function definition according to
+their position., test txt
+Hello world from Johnson
